@@ -1,0 +1,11 @@
+@import "variables";
+
+.Footer {
+  background-color: $navyBlue;
+  color: white;
+  padding: 2rem;
+
+  p{
+    font-weight: 500;
+  }
+}
